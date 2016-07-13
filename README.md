@@ -6,4 +6,6 @@ This is the first file.
 
 THis is a text
 
-New text
+This is a bug fix
+
+This is another bug fix
