@@ -4,4 +4,4 @@ This is the first file.
 
 ## Ipsum Below
 
-This is what i should find at the end.
+Welcome to our new git repository
